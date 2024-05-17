@@ -1,4 +1,4 @@
-### 👋 Olá! Me chamo Francisco Mady, um entusiasta da tecnologia e programação, dedicando-me ao estudo aprofundado da Ciência de Dados com ênfase em Finanças Quantitativas e o universo das Criptomoedas.
+### 👋 Olá! Me chamo Francisco Mady, um entusiasta da tecnologia e programação, dedicando-me ao estudo aprofundado da Ciência de Dados com ênfase em Finanças Quantitativas.
 
  
  
